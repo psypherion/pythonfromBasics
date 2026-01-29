@@ -1,6 +1,8 @@
 # pythonfromBasics
 Python Classes and related files
 
+![python](src/python.png)
+
 Day - 1 :
 - [x] Basic Discussion
 - [x] Python Installation
