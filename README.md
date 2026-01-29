@@ -16,8 +16,8 @@ Day - 2 :
     - [ ] To Do List
     - [ ] Password Generator
     - [ ] Simple Calculator
-    - [ ] File auto sorter
-    - [ ] pomodoro app
+    - [x] File auto sorter
+    - [x] pomodoro app
 - [ ] Practice Projects (remaining projects of Day - 2)
 - [ ] Basic Introduction to Python functions - Why and When to use?
 
